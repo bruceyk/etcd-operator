@@ -1,8 +1,8 @@
 # etcd operator
 
-### Project status: archived
+### Project status: Active
 
-This project is no longer actively developed or maintained. The project exists here for historical reference. If you are interested in the future of the project and taking over stewardship, please contact etcd-dev@googlegroups.com.
+This project is a fork of coreos/etcd-operator and aim to study it with new k8s version especially in k3d env.
 
 ### Overview
 
